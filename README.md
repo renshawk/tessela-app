@@ -1,4 +1,4 @@
-### **Tessella v1.17— First Public Release**
+### **Tessella **
 
 Tessella is a smarter window manager for macOS, built to make organizing your workspace fast, visual, and effortless.
 
@@ -16,7 +16,7 @@ Hover over an app in the Dock to see thumbnail previews of its open windows, the
 Tessella stays out of the way until you need it, helping you manage windows without interrupting your workflow.
 
 Compatibility
-macOS 10.15 or later
+macOS 14.5 or later
 Supports both Intel and Apple Silicon Macs
 Why Tessella
 macOS is beautiful, but window management has often felt limited for power users. Tessella brings together visual window layouts and Dock-level window previews in a single polished utility, making it easier to stay organized and focused throughout the day.
